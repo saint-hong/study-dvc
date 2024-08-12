@@ -3,3 +3,4 @@
 ['remote "mystorage"']
     url = gdrive://17B6yqM0EaGm9oFH-jiVQbyjpCHVQ-YOA
     gdrive_acknowledge_abuse = true
+    gdrive_user_credentials_file = /home/hshkuber/.cache/pydrive2fs/710796635688-iivsgbgsb6uv1fap6635dhvuei09o66c.apps.googleusercontent.com/default.json
